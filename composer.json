@@ -2,7 +2,7 @@
     "name": "tjdream.cn/test",
     "description": "a test for get composer package",
     "type": "l",
-    "license": "",
+    "license": "MIT",
     "authors": [
         {
             "name": "Jiao",
