@@ -1,0 +1,19 @@
+{
+    "name": "tjdream.cn/test",
+    "description": "a test for get composer package",
+    "type": "l",
+    "license": "apache",
+    "authors": [
+        {
+            "name": "Jiao",
+            "email": "18222809179@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Jiao\\": "src/jiao"
+        }
+    }
+}
